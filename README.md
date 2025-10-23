@@ -3,4 +3,7 @@ Repositorio del segundo parcial de Programación Web
 
 Nombre: Gilberto Villalobos Aquino  
 Sección: 01  
-Carnet: 00141224
+Carnet: 00141224  
+
+Para realizar las búsquedas por filtro:
+- http://localhost:3130/cuentas?filtro=estadoDelFiltro

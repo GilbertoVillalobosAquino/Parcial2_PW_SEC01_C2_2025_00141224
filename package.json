@@ -1,0 +1,28 @@
+{
+  "name": "parcial2_pw_sec01_c2_2025_00141224",
+  "version": "1.0.0",
+  "description": "Repositorio del segundo parcial de Programación Web",
+  "type": "module",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GilbertoVillalobosAquino/Parcial2_PW_SEC01_C2_2025_00141224.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GilbertoVillalobosAquino/Parcial2_PW_SEC01_C2_2025_00141224/issues"
+  },
+  "homepage": "https://github.com/GilbertoVillalobosAquino/Parcial2_PW_SEC01_C2_2025_00141224#readme",
+  "dependencies": {
+    "bcrypt": "^6.0.0",
+    "body-parser": "^2.2.0",
+    "cors": "^2.8.5",
+    "express": "^5.1.0",
+    "jsonwebtoken": "^9.0.2"
+  }
+}
